@@ -1,0 +1,18 @@
+Program media;
+var
+a:real;
+b:real;
+c:real;
+d:real;
+e:real;
+Begin
+write('Escreva o primeiro numero');
+read(a);
+write('Escreva o segundo numero');
+read(b);
+write('Escreva o terceiro numero');
+read(c);
+d:=3;
+e:=(a+b+c)/d;
+write(e);
+End.
