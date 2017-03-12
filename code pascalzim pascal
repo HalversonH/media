@@ -6,11 +6,11 @@ c:real;
 d:real;
 e:real;
 Begin
-write('Write the first number');
+write('Write the first number          ');
 read(a);
-write('Write the second number');
+write('Write the second number         ');
 read(b);
-write('Write the third number');
+write('Write the third number          ');
 read(c);
 d:=3;
 e:=(a+b+c)/d;
